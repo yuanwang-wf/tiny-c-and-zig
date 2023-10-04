@@ -1,0 +1,7 @@
+#+title: Readme
+
+#+begin_src shell
+zig cc greet02.c -o greetings
+./greetings Danny
+Hello, Danny!
+#+end_src
